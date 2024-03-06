@@ -1,4 +1,7 @@
 {
-  "filme1":{"titulo":"filme1","url":"1LB52qaxM95_RmF5WUNDb68ju6WoHHLQg","img":""},
-  "filme2":{"titulo":"filme2","url":"1LB52qaxM95_RmF5WUNDb68ju6WoHHLQg","img":""}
+    "filme_novo": {
+        "titulo": "Filme Novo",
+        "url": "url_do_filme",
+        "img": "url_da_imagem"
+    }
 }
