@@ -1,21 +1,37 @@
 [
     {
-      "img_url": "https://via.placeholder.com/300x450.png?text=Filme+1",
-      "titulo": "Filme 1",
-      "diretor": "Diretor do Filme 1",
-      "ano": "2023"
+        "titulo": "O Poderoso Chefão",
+        "diretor": "Francis Ford Coppola",
+        "ano": 1972,
+        "img_url": "https://example.com/images/o-poderoso-chefao.jpg",
+        "url": "https://www.imdb.com/title/tt0068646/"
     },
     {
-      "img_url": "https://via.placeholder.com/300x450.png?text=Filme+2",
-      "titulo": "Filme 2",
-      "diretor": "Diretor do Filme 2",
-      "ano": "2022"
+        "titulo": "Interestelar",
+        "diretor": "Christopher Nolan",
+        "ano": 2014,
+        "img_url": "https://example.com/images/interestelar.jpg",
+        "url": "https://www.imdb.com/title/tt0816692/"
     },
     {
-      "img_url": "https://via.placeholder.com/300x450.png?text=Filme+3",
-      "titulo": "Filme 3",
-      "diretor": "Diretor do Filme 3",
-      "ano": "2021"
+        "titulo": "A Origem",
+        "diretor": "Christopher Nolan",
+        "ano": 2010,
+        "img_url": "https://example.com/images/a-origem.jpg",
+        "url": "https://www.imdb.com/title/tt1375666/"
+    },
+    {
+        "titulo": "Matrix",
+        "diretor": "Lana Wachowski, Lilly Wachowski",
+        "ano": 1999,
+        "img_url": "https://example.com/images/matrix.jpg",
+        "url": "https://www.imdb.com/title/tt0133093/"
+    },
+    {
+        "titulo": "Os Bons Companheiros",
+        "diretor": "Martin Scorsese",
+        "ano": 1990,
+        "img_url": "https://example.com/images/os-bons-companheiros.jpg",
+        "url": "https://www.imdb.com/title/tt0099685/"
     }
-  ]
-  
+]
